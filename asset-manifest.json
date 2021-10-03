@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/woor1668-movie_app/static/css/main.09ccaf5c.chunk.css",
+    "main.js": "/woor1668-movie_app/static/js/main.2a9ca748.chunk.js",
+    "main.js.map": "/woor1668-movie_app/static/js/main.2a9ca748.chunk.js.map",
+    "runtime-main.js": "/woor1668-movie_app/static/js/runtime-main.b6333f1b.js",
+    "runtime-main.js.map": "/woor1668-movie_app/static/js/runtime-main.b6333f1b.js.map",
+    "static/js/2.12eb13c5.chunk.js": "/woor1668-movie_app/static/js/2.12eb13c5.chunk.js",
+    "static/js/2.12eb13c5.chunk.js.map": "/woor1668-movie_app/static/js/2.12eb13c5.chunk.js.map",
+    "index.html": "/woor1668-movie_app/index.html",
+    "static/css/main.09ccaf5c.chunk.css.map": "/woor1668-movie_app/static/css/main.09ccaf5c.chunk.css.map",
+    "static/js/2.12eb13c5.chunk.js.LICENSE.txt": "/woor1668-movie_app/static/js/2.12eb13c5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b6333f1b.js",
+    "static/js/2.12eb13c5.chunk.js",
+    "static/css/main.09ccaf5c.chunk.css",
+    "static/js/main.2a9ca748.chunk.js"
+  ]
+}
